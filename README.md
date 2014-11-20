@@ -5,11 +5,6 @@ Aufgabenblatt 7
 * Eintrag3 
 
 
-<table>
-    <tr>
-        <td>*kursiv*</td>
-                <td>**fett**</td>
-                        <td>***fett und kursiv***</td>
-    </tr>
-</table>  
+*kursiv*
+ 
 
