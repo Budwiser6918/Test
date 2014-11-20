@@ -7,11 +7,9 @@ Aufgabenblatt 7
 
 <table>
     <tr>
-        <td>Tabelle</td>
-                <td>Tabelle</td>
-                        <td>Tabelle</td>
+        <td>*kursiv*</td>
+                <td>**fett**</td>
+                        <td>***fett und kursiv***</td>
     </tr>
 </table>  
 
-
-*kursiv*, **fett**, ***fett und kursiv*** 
