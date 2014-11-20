@@ -9,7 +9,7 @@ Test
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Tabelle</td>
     </tr>
 </table>  
 
