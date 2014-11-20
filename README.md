@@ -8,6 +8,8 @@ Aufgabenblatt 7
 <table>
     <tr>
         <td>Tabelle</td>
+                <td>Tabelle</td>
+                        <td>Tabelle</td>
     </tr>
 </table>  
 
